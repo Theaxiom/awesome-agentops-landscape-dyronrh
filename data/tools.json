@@ -292,7 +292,7 @@
     "official_url": "https://langwatch.ai/",
     "github_repo": "langwatch/langwatch",
     "docs_url": "https://docs.langwatch.ai/",
-    "pricing_label": "\u20ac59+",
+    "pricing_label": "€59+",
     "pricing_url": "https://langwatch.ai/pricing",
     "display_link": "https://langwatch.ai"
   },
@@ -779,5 +779,16 @@
     "pricing_label": "$199/mo",
     "pricing_url": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105",
     "display_link": "https://www.hivemeld.ai/buy?plan=annual&utm_source=dyronrh_agentops&utm_medium=directory&utm_campaign=GRO-105"
+  },
+  {
+    "name": "Agent Barn",
+    "category": "open_source",
+    "focus": "Agent control plane: multi-channel comms, audit logging, cost tracking",
+    "official_url": "https://agentbarn.dev",
+    "github_repo": "aai-labs/agent-barn",
+    "docs_url": "https://agentbarn.dev",
+    "pricing_label": "",
+    "pricing_url": "",
+    "display_link": "https://github.com/aai-labs/agent-barn"
   }
 ]
