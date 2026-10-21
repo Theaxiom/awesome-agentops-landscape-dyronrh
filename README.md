@@ -20,7 +20,7 @@ Each week this repository highlights:
 [![License](https://img.shields.io/github/license/dyronrh/awesome-agentops-landscape?style=for-the-badge)](LICENSE)
 
 <!-- META:START -->
-**Last generated:** 2026-10-20  
+**Last generated:** 2026-10-21  
 **Automation:** GitHub Actions + GitHub API
 <!-- META:END -->
 
@@ -114,7 +114,7 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 <!-- OSS_TABLE:START -->
 | Tool | Stars | Links |
 |------|------|------|
-| LiteLLM | ⭐ 61.6k | https://github.com/BerriAI/litellm |
+| LiteLLM | ⭐ 61.7k | https://github.com/BerriAI/litellm |
 | Langfuse | ⭐ 36.1k | https://github.com/langfuse/langfuse |
 | Promptfoo | ⭐ 26.2k | https://github.com/promptfoo/promptfoo |
 | Opik (Comet) | ⭐ 22.8k | https://github.com/comet-ml/opik |
@@ -138,15 +138,15 @@ AgentOps platforms are instrumented via **OpenTelemetry**, where each agent sess
 | Weave (W&B) | ⭐ 1.1k | https://github.com/wandb/weave |
 | ClawBench | ⭐ 1.1k | https://github.com/TIGER-AI-Lab/ClawBench |
 | SandBase Harness | ⭐ 640 | https://github.com/sandbaseai/sandbase-harness |
-| Agent Evaluation (AWS Labs) | ⭐ 376 | https://github.com/awslabs/agent-evaluation |
+| Agent Evaluation (AWS Labs) | ⭐ 375 | https://github.com/awslabs/agent-evaluation |
 | Monocle2AI | ⭐ 342 | https://github.com/monocle2ai/monocle |
 | OrcaReplay | ⭐ 286 | https://github.com/Continuum-AI-Corp/OrcaReplay |
 | traceAI | ⭐ 224 | https://github.com/future-agi/traceAI |
-| AgentMeasure | ⭐ 218 | https://github.com/roy-tong/AgentMeasure |
+| AgentMeasure | ⭐ 219 | https://github.com/roy-tong/AgentMeasure |
 | agenttrace | ⭐ 148 | https://github.com/luoyuctl/agenttrace |
-| KubeStellar | ⭐ 146 | https://github.com/kubestellar/console |
+| KubeStellar | ⭐ 147 | https://github.com/kubestellar/console |
 | Open Bias | ⭐ 145 | https://github.com/open-bias/open-bias |
-| ai-evaluation | ⭐ 128 | https://github.com/future-agi/ai-evaluation |
+| ai-evaluation | ⭐ 127 | https://github.com/future-agi/ai-evaluation |
 | ax | ⭐ 119 | https://github.com/Necmttn/ax |
 | Agent Barn | ⭐ 110 | https://github.com/aai-labs/agent-barn |
 | RewardHarness | ⭐ 85 | https://github.com/TIGER-AI-Lab/RewardHarness |
